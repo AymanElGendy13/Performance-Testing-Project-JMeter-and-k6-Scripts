@@ -2,8 +2,9 @@
 
 This repository contains the implementation of performance testing scripts using JMeter and k6 to simulate user journeys and API flows. The project is divided into two main folders:
 
-JMeter: Contains JMeter scripts for simulating a full user journey on a pet store website and testing the flow of APIs for a booking system. The scripts are designed to be independent of test data, with parameterization, assertions, and realistic delays. Additionally, load profiling is implemented using advanced thread groups like ip@gc - Stepping Thread Group and ip@gc - Ultimate Thread Group.
-k6: Includes the implementation of the first script using k6, a modern load testing tool, to simulate user behavior and measure system performance.
+- JMeter: Contains JMeter scripts for simulating a full user journey on a pet store website and testing the flow of APIs for a booking system. The scripts are designed to be independent of test data, with parameterization, assertions, and realistic delays. Additionally, load profiling is implemented using advanced thread groups like ip@gc - Stepping Thread Group and ip@gc - Ultimate Thread Group.
+
+- k6: Includes the implementation of the first script using k6, a modern load testing tool, to simulate user behavior and measure system performance.
 
 # Key Features:
 JMeter Scripts:
