@@ -1,0 +1,2 @@
+username,password,firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+admin,password123,Jim,Brown,111,true,1/1/2018,1/1/2019,Breakfast
