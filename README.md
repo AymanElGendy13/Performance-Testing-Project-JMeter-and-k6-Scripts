@@ -31,3 +31,6 @@ k6:
 1. Run the k6_script.js using the k6 CLI using the following command:
 k6 run k6_script.js
 
+# Websites:
+- https://petstore.octoperf.com/actions/Catalog.action --> for petstore
+- https://restful-booker.herokuapp.com/apidoc/ --> for restful booking 
